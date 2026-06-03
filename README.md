@@ -7,7 +7,7 @@ Import Data into Power BI
 Data processing And DAX
 Data Visualization 
 Insights: Week 53 (31st Dec)
-WoW change: 
+Week on week change: 
 • Revenue increased by 28.8%, 
 • Total Transaction Amt & Count increased by 35.04% & 3.39%
 • Customer count increased by 28.31%
