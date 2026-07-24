@@ -17,7 +17,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 1: Customer Report
 
-![Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.jpeg)
+![Credit Card Customer Dashboard](Credit_Card_Customer Dashboard.jpeg)
 
 ### Key Insights
 - Total Revenue: 57M
