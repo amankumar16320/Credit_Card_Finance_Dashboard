@@ -2,12 +2,13 @@
 Power BI Dashboard
 
 ## Project Overview
-This Power BI project analyzes credit card customer behavior, transaction trends, and financial performance through interactive dashboards. The project provides insights into customer demographics, spending patterns, revenue generation, and transaction activities to support data-driven decision-making.
+This Power BI project analyzes credit card customer behavior, transaction trends, and financial performance through interactive dashboards. __Data was extracted from SQL Server and transformed using Power Query__ to provide insights into customer demographics, spending patterns, revenue generation, and transaction activities for data-driven decision-making.
 
 ## Business Objective
 To develop interactive dashboards that help stakeholders monitor credit card performance, customer behavior, transaction trends, and key financial KPIs.
 
 ## Tools & Technologies Used
+- SQL Server
 - Power BI
 - Power Query
 - DAX
@@ -16,7 +17,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 1: Customer Report
 
-![Credit Card Customer Report](credit_card_customer_report.jpeg)
+![Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.jpeg)
 
 ### Key Insights
 - Total Revenue: 57M
@@ -30,7 +31,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 2: Transaction Report
 
-![Credit Card Transaction Report](credit_card_transaction_report.jpeg)
+![Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.jpeg)
 
 ### Key Insights
 - Total Transaction Amount: 46M
@@ -47,6 +48,7 @@ The dashboards provide a comprehensive view of customer behavior and transaction
 
 ## Skills Demonstrated
 - Power BI Dashboard Development
+- SQL 
 - DAX Calculations
 - Power Query
 - Data Modeling
