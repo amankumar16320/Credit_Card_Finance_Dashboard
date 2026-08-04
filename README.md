@@ -17,7 +17,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 1: Customer Report
 
-![Credit Card Customer Dashboard](credit_card_customer_dashboard.jpeg)
+![Credit Card Customer Dashboard](credit_card_customer_report.jpeg)
 
 ### Key Insights
 - Total Revenue: 11M
@@ -31,7 +31,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 2: Transaction Report
 
-![Credit Card Transaction Dashboard](credit_card_transaction_dashboard.jpeg)
+![Credit Card Transaction Dashboard](credit_card_transaction_report.jpeg)
 
 ### Key Insights
 - Total Transaction Amount: 46M
