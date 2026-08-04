@@ -17,13 +17,13 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 1: Customer Report
 
-![Credit Card Customer Dashboard](Credit_Card_Customer_Dashboard.jpeg)
+![Credit Card Customer Dashboard](credit_card_customer_dashboard.jpeg)
 
 ### Key Insights
-- Total Revenue: 57M
+- Total Revenue: 11M
 - Total Interest Earned: 8M
-- Male customers generated 31M revenue.
-- Female customers generated 26M revenue.
+- Male customers generated 6M revenue.
+- Female customers generated 5M revenue.
 - TX, NY, and CA contributed the highest revenue.
 - High-income customers generated the largest share of revenue.
 
@@ -31,7 +31,7 @@ To develop interactive dashboards that help stakeholders monitor credit card per
 
 ## Dashboard 2: Transaction Report
 
-![Credit Card Transaction Dashboard](Credit_Card_Transaction_Dashboard.jpeg)
+![Credit Card Transaction Dashboard](credit_card_transaction_dashboard.jpeg)
 
 ### Key Insights
 - Total Transaction Amount: 46M
